@@ -1,0 +1,40 @@
+body{
+    background-color: #212121;
+    display: inline;
+
+}
+
+
+h1{
+    margin-left: 650px;
+    background-color: #212121;
+    color: whitesmoke;
+}
+
+#sec1 img{
+
+    display: inline;
+    margin-left: 250px;
+}
+
+#sec1 img p{
+    display: inline;
+    margin-left: 250px;
+    color: whitesmoke;
+}
+
+.list-group{
+
+    color: whitesmoke;
+    border: 15px;
+    border-color: black;
+}
+
+p{
+    color: whitesmoke   ;
+}
+
+.nav flex-column{
+
+    border: 15px;
+}
